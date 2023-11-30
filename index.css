@@ -1,0 +1,71 @@
+body {
+    background-image: url("66-660114_illustration.jpg");
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 100vh;
+}
+
+#title {
+   
+   background: rgba(255, 255, 255, 0.4);
+   width: 100%; 
+   height: 60px;
+
+}
+
+
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    padding: 9px 13px;
+   
+    
+}
+
+h2 {
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: whitesmoke
+}
+
+button {
+    border: 1px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: linear-gradient(#00509d,#56cfe1);
+    marg
+   
+}
+
+#save-btn {
+     background: linear-gradient(#ffc300,#56cfe1);
+}
+
+#save-el {
+    font-weight: bold;
+    color: black;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px 13px;
+    
+}
+
+
+
